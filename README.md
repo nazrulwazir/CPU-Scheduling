@@ -5,11 +5,6 @@
 ```
 git clone git@github.com:nazrulwazir/CPU-Scheduling.git
 ```
-
-- Launch web server
-```
-php artisan serve
-```
 How to use:
 * run cpu-scheduling.c or cpu-scheduling.exe
 * Choose scheduling type what you want
